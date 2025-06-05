@@ -25,4 +25,4 @@ jobs:
         context: .
         push: true
         provenance: false
-        tags: Banumiah/minha-pagina-web:latest
+        tags: docker.io/Banumiah/minha-pagina-web:latest
